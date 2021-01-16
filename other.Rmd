@@ -1,0 +1,50 @@
+---
+title: " "
+pagetitle: "Muhammet Aydın"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+
+
+
+## Conference Attendance
+
+- International Constituonal Congress, 2011
+
+- Economic Spring, 2012
+
+- Young Constitution Workshop, 2012
+
+- Third Eye: Statistics
+
+## Courses and Certificates
+
+- [United Nations, Economic And Social Comission For Asia And Pasific Introduction To Official Statistics(2018)](files/Annex2.pdf)
+
+- Eurostat, European Statistical System, Time Series Econometrics, Devstat, Spain(2019)
+
+- Microsoft SQL Management Studio Training, Ankara, Turkey(2019)
+
+## Datacamp
+
+- [Datacamp, Arima Modelling with ARIMA](files/Annex3.pdf)
+
+- [Datacamp, Data Manipulation in R with “dplyr”](files/Annex4.pdf)
+
+- [Datacamp, Importing Data in R](files/Annex5.pdf)
+
+- [Datacamp, Importing Data in R (Part 2)](files/Annex6.pdf)
+
+- [Datacamp, Intermediate in R](files/Annex7.pdf)
+
+- [Datacamp, Intermediate in R(Practice)](files/Annex8.pdf)
+
+- [Datacamp, Introduction to R](files/Annex9.pdf)
+
+- [Datacamp, Introduction to Time Series Analysis](files/Annex10.pdf)
+
+- [Datacamp, Intro to SQL for Data Science Course](files/Annex11.pdf)
+
+- [Datacamp, Intro to Python for Data Science Course](files/Annex12.pdf)

@@ -1,0 +1,35 @@
+---
+title: " "
+pagetitle: "Muhammet Aydın"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+
+## BOTAŞ (2019-../ANKARA)
+
+- I am working Demand Estimation and Operation Unit in BOTAŞ. I am working on daily, monthly and yearly energy statistics as working topic. My responsibility is to understand what is going on at energy sector, inspect all of energy resources, manage the neccessary data about the sector and develop good estimation model which can perfectly monitor sector demand.
+- I am involved in projects which estimate the other energy resources consumption like wind turbine energy consumption in Turkey.
+- I am also interested and responsible some web scrapping applications about weather forecasts data.
+- I am in some projects about web application interfaces to manage data perfectly.
+
+## TurkStat(2016-2019/ANKARA)
+
+- I am working Data Analysis Technique Unit in TurkStat. I am working on seasonally adjusted statistics as working topic. It is my responsibility to periodically check some statistics (Foreign trade statistics and indices, Labor statistics, Quarterly National Accounts, Industrial production indices, Turnover indices, Sectoral confidence indices, Poultry statistics, Dairy products statistics) during the seasonal adjustment process.
+- I am involved in projects that will facilitate the statistical production process and data analysis processes with the help of R programming language.
+- I take an active role in the implementation of benchmarking and reconciliation methods in seasonally adjusted quarterly national accounts.
+- I am responsible for compliance with standards by contacting with other units in the official statistical production process in terms of revision.
+- I am actively involved in the data preparation and analysis processes of the conjunct ure monitor.
+- I am interested in text mining transformation unstructured data into structural data , statistical code assignment modeling
+- I am interested in data analysis and data mining Determining and reporting by modeling extreme and outlier values in data
+- I am interested in web scrapping applications on prices.
+
+## Big & Bold(2012/ISTANBUL)
+
+- Sales, marketing, marketing and especially photo shoot
+
+## Marks & Spencer (2011/ISTANBUL)
+
+- Sales to customers coming to the store(Clothing and Textile Sector)
+

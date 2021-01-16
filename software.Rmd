@@ -1,0 +1,65 @@
+---
+title: " "
+pagetitle: "Muhammet Aydın"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+
+
+## R 
+
+- I am very proffessional R user and also enthusiastic for using it every area. Following projects were made with R programming:
+
+- Benchmarking and Reconciliation Application in Seasonal Adjusted Official Statistics, TurkStat Expertise Thesis, Ankara, 2019.
+
+- [Interconnectedness Analysis Between Foreign Exchange Markets (2019)](files/Spillover.html)
+
+- The System of Production of Current Press Releases, Reports and Data Tables Integrated with Database(R programming project) (2018)
+
+- Finding The Most Frequent Expressions In A Text with Text Mining Practices and Reporting Through Word Clouds(R programming project) (2018)
+
+- Compiling Turkey Mobile Phone Prices With Web Scraping Application Used For Data Compilation Purpose In Official Statistics(R programming project) (2018)
+
+
+## Python
+
+- Getting meteorological data with web scraping techniques from a website using 'Selenium' module in Python.
+
+- Getting wind power generation data from RİTM(RÜZGAR İZLEME VE TAHMİN MERKEZİ) website with the help of 'urllib', 'request', 'BeautifulSoup', 'pandas' and 'datetime' Python modules.
+
+- Making data table with transforming the data netcdf format with the help of 'xarray' Python module.
+
+-MGM SICAKLIK VE RÜZGAR HIZI VERİLERİNİN PYTHON 'selenium' VE 'pandas' KÜTÜPHANELERİ YARDIMI VE WEB SCRAPING YÖNTEMİYLE ELDE EDİLMESİ
+
+
+## SQL
+
+- Experience store, manage, query data using SQL.
+
+- I have experienced Microsoft SQL Server Management Studio, and R-Python database connection.
+
+- Creating a database about geographic latitude/longitude data of Turkey. 
+
+
+## Julia
+
+- I am enthusiast in Julia and learning the syntax.
+
+## Others
+
+- Displaying geogpraphic data with the help of 'Panoply' programm.
+
+- TSW(Tramo Seats for Windows)
+
+- Eviews
+
+- IBM SPSS Modeler
+
+- STATA
+
+- WinQSB
+
+- Microsoft Office Tools
+

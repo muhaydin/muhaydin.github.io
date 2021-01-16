@@ -1,0 +1,32 @@
+---
+title: " "
+pagetitle: "Muhammet Aydın"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+<img src="images/hacettepe_book.jpeg" style="width:45%; border:5px solid; margin-right: 0px" align="right">
+
+I am interested in data management, data analysis, data modeling, time series analysis methods, estimation, R-Python-SQL-Julia programming languages, and the other stuffs about all data processing. 
+
+My graduation table is as follows;
+
+* [Hacettepe University English Economics](http://www.econ.hacettepe.edu.tr/en) still student.
+* [Marmara University Econometrics in 2015.](http://ekm.ikf.marmara.edu.tr/en)
+* [Anadolu University Public Administration in 2014.](https://www.anadolu.edu.tr/en/open-education/programs-in-turkey/faculty-of-economics/political-science-and-public-administration) 
+* [Anadolu University Paralegal Studies in 2012.](https://www.anadolu.edu.tr/en/open-education/programs-in-turkey/associate-degree-programs-in-the-faculty-of-open-education/paralegal-studies)
+
+My working profile is as follows;
+
+* I worked on data analysis and R programming about 3 years in a public institution [TurkStat](https://www.tuik.gov.tr/)
+
+* Now, I am working at [BOTAŞ](https://www.botas.gov.tr/?dil=2) which is leader energy company of Turkey and its territory.
+
+
+
+
+
+
+
+

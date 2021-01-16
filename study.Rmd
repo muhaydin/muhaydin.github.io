@@ -1,0 +1,32 @@
+---
+title: " "
+pagetitle: "Muhammet Aydın"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+
+
+
+## By Publication
+
+* Benchmarking and Reconciliation Application in Seasonal Adjusted Official Statistics, TurkStat Expertise Thesis, Ankara, 2019.
+* [The Effects of Structural Reforms on Output and Employement: A Literature Review, Research Ethics Course Term Project, Ankara, 2019](files/MAKALE-THE EFFECT OF STRUCTURAL REFORMS ON OUTPUT AND EMPLOYMENT.pdf)
+
+
+## By Presentation
+
+* The National Accounts Analysis by Sectors and Selecting The Most Profitable Sector with Uncertinity Decision Making Methods
+
+* The Cointegration and Causality Analysis Of CPI, Interest Rate, USD Currency and Stock Market
+
+* Stocks in Capital Markets
+
+* Credit Rating Agencies
+
+* Factor Affecting the FDI(Foreign Direct Investment)
+
+* Fibonacci Methods in Technical Analys
+
+* [Real Business Cycle School](files/RBC2.pdf)

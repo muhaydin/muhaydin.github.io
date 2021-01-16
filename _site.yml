@@ -1,0 +1,32 @@
+name: "Muhammet Aydın"
+output_dir: "."
+navbar:
+  title: "Muhammet Aydın"
+  left:
+    - text: "Study"
+      href: study.html
+    - text: "Programming"
+      href: software.html
+    - text: "Experience"
+      href: exp.html
+    - text: "Projects"
+      href: pro.html
+    - text: "Other"
+      href: other.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/
+    - icon: ai-cv ai-lg
+      href: ./files/CV-MUHAMMET-AYDIN.pdf
+    - icon: fa-github fa-lg
+      href: https://github.com/muhaydin
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/muhammet-aydin-808569195/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
