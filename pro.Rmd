@@ -10,11 +10,11 @@ pagetitle: "Muhammet Aydın"
 ## By Project 
 
 
-- The System of Production of Current Press Releases, Reports and Data Tables Integrated with Database(R programming project) (2018)
+- The System of Production of Current Press Releases, Reports and Data Tables Integrated with Database (2018)
 
-- Finding The Most Frequent Expressions In A Text with Text Mining Practices and Reporting Through Word Clouds(R programming project) (2018)
+- Finding The Most Frequent Expressions In A Text with Text Mining Practices and Reporting Through Word Clouds (2018)
 
-- Compiling Turkey Mobile Phone Prices With Web Scraping Application Used For Data Compilation Purpose In Official Statistics(R programming project) (2018)
+- Compiling Turkey Mobile Phone Prices With Web Scraping Application Used For Data Compilation Purpose In Official Statistics (2018)
 
 - Panel Data Econometrics (2016)
 

@@ -25,7 +25,9 @@ pagetitle: "Muhammet Aydın"
 
 - Eurostat, European Statistical System, Time Series Econometrics, Devstat, Spain(2019)
 
-- Microsoft SQL Management Studio Training, Ankara, Turkey(2019)
+- Microsoft SQL Management Studio Tutorial, Ankara, Turkey(2019)
+
+- Microsoft SQL Reporting Studio Tutorial, Ankara, Turkey(2019)
 
 ## Datacamp
 

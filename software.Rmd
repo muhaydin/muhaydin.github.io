@@ -16,11 +16,11 @@ pagetitle: "Muhammet Aydın"
 
 - [Interconnectedness Analysis Between Foreign Exchange Markets (2019)](files/Spillover.html)
 
-- The System of Production of Current Press Releases, Reports and Data Tables Integrated with Database(R programming project) (2018)
+- The System of Production of Current Press Releases, Reports and Data Tables Integrated with Database(2018)
 
-- Finding The Most Frequent Expressions In A Text with Text Mining Practices and Reporting Through Word Clouds(R programming project) (2018)
+- Finding The Most Frequent Expressions In A Text with Text Mining Practices and Reporting Through Word Clouds (2018)
 
-- Compiling Turkey Mobile Phone Prices With Web Scraping Application Used For Data Compilation Purpose In Official Statistics(R programming project) (2018)
+- Compiling Turkey Mobile Phone Prices With Web Scraping Application Used For Data Compilation Purpose In Official Statistics (2018)
 
 
 ## Python
@@ -31,7 +31,6 @@ pagetitle: "Muhammet Aydın"
 
 - Making data table with transforming the data netcdf format with the help of 'xarray' Python module.
 
--MGM SICAKLIK VE RÜZGAR HIZI VERİLERİNİN PYTHON 'selenium' VE 'pandas' KÜTÜPHANELERİ YARDIMI VE WEB SCRAPING YÖNTEMİYLE ELDE EDİLMESİ
 
 
 ## SQL
