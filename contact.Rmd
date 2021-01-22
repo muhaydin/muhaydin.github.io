@@ -6,7 +6,7 @@
 
 I'd love to hear from you, so feel free to reach out.
 
-<img src="images/botaşlogo2.png" style="width:25%; margin-right: 50px" align="right">
+<!-- <img src="images/botaşlogo2.png" style="width:25%; margin-right: 50px" align="right"> -->
 
 **BOTAŞ**<br>
 P.K. 17, Marmara Ereğlisi / TEKİRDAĞ<br>
@@ -14,4 +14,15 @@ P.K. 17, Marmara Ereğlisi / TEKİRDAĞ<br>
 [muhammet.aydin@botas.gov.tr](muhammet.aydin@botas.gov.tr)<br>
 
 or connect with me on [GitHub](https://github.com/muhaydin), [Twitter](https://twitter.com), or [Linkedin](https://www.linkedin.com/in/muhammet-aydin-808569195/)
+
+
+
+```{r echo=FALSE, fig.width=11}
+library(leaflet)
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=27.975887, lat=40.989564, popup="BOTAŞ LNG İŞLETME MÜDÜRLÜĞÜ")
+m 
+```
+
 
